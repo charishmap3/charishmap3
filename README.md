@@ -45,11 +45,47 @@ MySQL | Supabase | ChromaDB | Git | GitHub | VS Code
 
  Featured Projects
 
-- SentinelMesh Studio – AI-powered enterprise workflow orchestration platform.
-- PharmaGuard – Pharmacogenomics-based drug safety and risk prediction system.
-- Smart Stadium AI – AI-powered stadium assistance and navigation platform.
-- Building Energy Doctor – AI-driven smart building energy optimization system.
-- Fruit Detection System – Real-time fruit detection using YOLOv8.
+- SentinelMesh Studio
+  AI-powered enterprise workflow orchestration platform that automates business processes using intelligent agents, LangGraph, RAG, and LLM integrations.
+
+  Tech Stack: React, TypeScript, FastAPI, LangGraph, Groq, ChromaDB
+
+[View Repository](https://github.com/charishmap3/SentinelMesh-Studio-Intelligent-AI-Workflows-)
+
+- PharmaGuard
+  Pharmacogenomics-based drug safety and risk prediction system that analyzes genetic variations to predict potential drug responses and adverse reactions.
+
+  Tech Stack: Python, Flask, React, Machine Learning, VCF Parsing
+
+[View Repository](https://github.com/charishmap3/Pharmaguard-AI-Powered-Pharmacogenomics-Risk-Prediction-System)
+
+- Smart Stadium AI
+  An AI-powered smart stadium assistant designed to improve visitor experiences through intelligent navigation, crowd insights, food recommendations, and emergency assistance.
+
+  Tech Stack: React, JavaScript, Python, Flask, Gemini AI
+
+[View Repository](https://github.com/charishmap3/Smart-Stadium-AI)
+
+Personal AI Assistant for Students
+An AI-powered learning assistant that converts uploaded study materials into summaries, interactive flashcards, and quizzes to make learning easier.
+
+Tech Stack: Java, Spring Boot, HTML, CSS, JavaScript
+
+[View Repository](https://github.com/charishmap3/Personal-AI-assistant-for-students)
+
+- Fruit Detection System
+  A computer vision-based fruit detection and classification system using deep learning to identify multiple fruit categories from images.
+
+  Tech Stack: Python, YOLOv8, CNN, Deep Learning
+
+[View Repository](https://github.com/charishmap3/Fruit_detection)
+
+- Distributed File Storage System
+A web-based distributed file storage application designed to manage and store files through a modern frontend and backend architecture.
+
+Tech Stack: React, Node.js, Express, Supabase
+
+[View Repository](https://github.com/charishmap3/Distributed-File-Storage-System)
 
 
 
@@ -66,5 +102,6 @@ MySQL | Supabase | ChromaDB | Git | GitHub | VS Code
  Connect With Me
 
 -  LinkedIn: https://www.linkedin.com/in/charishma-p-d-3a6729362/
+-  Github: https://github.com/charishmap3
 
 
