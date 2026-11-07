@@ -41,6 +41,7 @@ Machine Learning | Deep Learning | Generative AI | LangChain | LangGraph | RAG |
 
 MySQL | Supabase | ChromaDB | Git | GitHub | VS Code
 
+---
 
 
  Featured Projects
@@ -87,7 +88,7 @@ Tech Stack: React, Node.js, Express, Supabase
 
 [View Repository](https://github.com/charishmap3/Distributed-File-Storage-System)
 
-
+---
 
  Achievements
 
@@ -97,11 +98,11 @@ Tech Stack: React, Node.js, Express, Supabase
 - Participated in RIFT Hackathon and Unisys Innovation Program.
 
 
-
+---
 
  Connect With Me
 
 -  LinkedIn: https://www.linkedin.com/in/charishma-p-d-3a6729362/
 -  Github: https://github.com/charishmap3
 
-
+---
