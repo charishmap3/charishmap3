@@ -67,6 +67,4 @@ MySQL | Supabase | ChromaDB | Git | GitHub | VS Code
 
 -  LinkedIn: https://www.linkedin.com/in/charishma-p-d-3a6729362/
 
----
 
-⭐ *Building, learning, and innovating one project at a time!*
