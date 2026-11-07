@@ -8,6 +8,7 @@
 
 - I enjoy building innovative solutions, experimenting with emerging technologies, and turning ideas into real-world applications.
 
+---
 
  About Me
 
